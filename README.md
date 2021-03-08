@@ -16,5 +16,5 @@ http://icafe.clatfd.cn/
 
 # Own data
 If you are using your own artery traces, please construct the graph accordingly to the format we used in the pickle files before running our code.
-We use the code from iCafe-Python (https://github.com/clatfd/iCafePython) to contruct the graph. 
-I will separate the graph contruction code to this repository in the future if I have time.
+Please refer to the notebook of "Generate graph.ipynb" for more information about the data format and the code for generating graphs. 
+Please make modifications accordingly based on your own data. 
